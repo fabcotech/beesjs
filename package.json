@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@types/node": "^12.7.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "source-map": "^0.7.3",
     "xstream": "11.7.0"
   },
