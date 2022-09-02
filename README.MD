@@ -1,3 +1,6 @@
+
+Archived ! Moved to [https://github.com/fabcotech/dappy-tools](https://github.com/fabcotech/dappy-tools).
+
 ## Bees js
 
 JS library that does co-resolution / retrieves arbitrary resources on arbitrary DLTs, blockchains or networks in a trustless manner.
